@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+.response-format{
+    max-height: 75vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    max-width: 40vw;
+    flex-wrap: wrap;
+    overflow-wrap: break-word;
+    overflow-y: auto;
+    padding: 20px;
+    font-size: 24px;
+    font-family: 'Work Sans', sans-serif;
+    white-space: pre-wrap;
+}
+
+.response-text{
+    margin: 5px;
+}

@@ -1,0 +1,14 @@
+.ai-image{
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.398);
+  border-radius: 25px;
+  max-height: 630px;
+}
+
+.blur-true{
+  filter: blur(100px);
+  animation: all 5s;
+}
+.blur-false{
+  filter: blur(0);
+  animation: all 5s;
+}

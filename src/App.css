@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Varela+Round&display=swap');
+
+.App {
+  position:absolute;
+  top:0px;
+  right:0px;
+  bottom:0px;
+  left:0px;
+  display: flex;
+  flex-direction: column;
+  background: rgb(51,128,135);
+background: -moz-linear-gradient(180deg, rgba(51,128,135,1) 0%, rgba(186,223,231,1) 19%, rgba(246,246,242,1) 46%);
+background: -webkit-linear-gradient(180deg, rgba(51,128,135,1) 0%, rgba(186,223,231,1) 19%, rgba(246,246,242,1) 46%);
+background: linear-gradient(180deg, rgba(51,128,135,1) 0%, rgba(186,223,231,1) 19%, rgba(246,246,242,1) 46%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#338087",endColorstr="#f6f6f2",GradientType=1);
+  height: 100%;
+}
